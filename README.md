@@ -25,7 +25,7 @@ I’m particularly interested in understanding user behavior, decision-making pa
 
 ---
 
-## 🔗 How to Reach Me
+## How to Reach Me
 - LinkedIn: www.linkedin.com/in/pari-afk
 
 
