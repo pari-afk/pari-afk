@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Pari 
+## 👋 Hi, I'm Pari!
 
 I’m a 3rd-year undergraduate student focused on Data Analytics and Applied Data Science, with hands-on experience building end-to-end data analysis projects using real-world datasets.
 
