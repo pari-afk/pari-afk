@@ -16,15 +16,6 @@ I’m particularly interested in understanding user behavior, decision-making pa
 
 ---
 
-##  Featured Projects
-- **Online Shopping Behavior Analysis**  
-  Clickstream + survey analysis using classification, clustering, and PCA to study purchase intent.
-
-- **Spotify Top 10k Songs Analysis**  
-  Data cleaning and exploratory analysis of music trends, popularity, and artist collaborations.
-
----
-
 ## How to Reach Me
 - LinkedIn: www.linkedin.com/in/pari-afk
 
