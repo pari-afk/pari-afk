@@ -1,23 +1,26 @@
-## 👋 Hi, I'm Pari!
+### hi, I'm Pari 👋
 
-I’m a 3rd-year undergraduate student focused on Data Analytics and Applied Data Science, with hands-on experience building end-to-end data analysis projects using real-world datasets.
-
-I’m particularly interested in understanding user behavior, decision-making patterns, and data-driven insights across consumer and digital platforms.
+I'm a 3rd year Data Science & AI student at Lakehead University. I build end-to-end ML systems — from data pipelines and feature engineering to model selection and Flask deployment.
 
 ---
 
-##  Technical Skills:
+**things I've built**
 
-- **Languages:** Python, SQL
-- **Data Analysis:** pandas, NumPy
-- **Machine Learning:** scikit-learn (classification, clustering)
-- **Data Visualization:** matplotlib, seaborn
-- **Tools:** Git, GitHub, Jupyter, VS Code
+- 🗞️ [The Truth Press] — fake news detection web app using TF-IDF + a decision tree I wrote from scratch. trained on 44k articles, live BBC news sidebar included
+- 🧠 [Stress or Physical?] — clinical decision support app powered by a hand-coded Bayesian Network. full auth, assessment history, red flag detection
+- 📊 ODSC x Zerve Datathon — top 5 finish. analyzed 3.5M behavioral events to predict SaaS subscription upgrades, ROC-AUC 0.712
 
 ---
 
-## How to Reach Me
-- LinkedIn: www.linkedin.com/in/pari-afk
+**stack**
+
+`Python` `Pandas` `NumPy` `scikit-learn` `Flask` `SQL` `NLP` `Bayesian inference`
+
+---
+
+**find me**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pari--afk-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pari-afk)
 
 
 
