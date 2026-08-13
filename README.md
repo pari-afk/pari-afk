@@ -33,6 +33,6 @@ Third-year Data Science & AI student at Lakehead University. I like problems whe
 
 **Find me**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-pari--bhatnagar-111111?style=flat&logo=firefox&logoColor=white)](https://pari-bhatnagar.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pari--afk-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pari-afk)
+[![Portfolio](https://img.shields.io/badge/Portfolio-pari--bhatnagar-111111?style=flat&logo=firefox&logoColor=white)](https://pari-data.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pari--afk-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/pari-afk)
 [![Email](https://img.shields.io/badge/Email-paribhatnagar0904%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:paribhatnagar0904@gmail.com)
